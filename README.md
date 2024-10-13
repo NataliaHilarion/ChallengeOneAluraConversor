@@ -27,4 +27,5 @@ Para ejecutar este programa, necesitarás tener instalado:
 
 ## API
 
-![API usada](images/api.png)
+![API](src/images/api.png)
+
