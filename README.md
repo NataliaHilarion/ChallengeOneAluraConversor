@@ -29,8 +29,18 @@ Para ejecutar este programa, necesitarás tener instalado:
 
 ![API](src/images/api.png)
 
-## Algunas Capturas
+## Captura Eligiendo una opción
 
 ![funcionamiento](src/images/captura.png)
+
+<br>
+
+## Captura saliendo del programa
+
 ![funcionamiento](src/images/captura2.png)
+
+## Agradecimientos
+
+@aluraLatam - ONE - OracleNextEducation** 
+
 

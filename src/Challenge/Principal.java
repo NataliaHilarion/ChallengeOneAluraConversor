@@ -7,7 +7,7 @@ public class Principal {
         Busqueda consulta = new Busqueda();
         Scanner teclado = new Scanner(System.in);
         int eleccion = 0;
-        double valorFinal;
+        long valorFinal;
 
         while (eleccion != 7) {
             System.out.println("**********************************************");
@@ -61,7 +61,7 @@ public class Principal {
 
             if (!baseCode.isEmpty()) {
                 double tasaConversion = consulta.busquedaMoneda(baseCode, targetCode);
-                valorFinal = cant * tasaConversion;
+                valorFinal = (long) (cant * tasaConversion);
                 System.out.println("El valor de " + cant + " [" + baseCode + "] corresponde al valor final de " + valorFinal + " [" + targetCode + "]");
             }
         }
