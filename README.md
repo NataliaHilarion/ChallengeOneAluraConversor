@@ -29,3 +29,8 @@ Para ejecutar este programa, necesitarás tener instalado:
 
 ![API](src/images/api.png)
 
+## Algunas Capturas
+
+![funcionamiento](src/images/captura.png)
+![funcionamiento](src/images/captura2.png)
+
