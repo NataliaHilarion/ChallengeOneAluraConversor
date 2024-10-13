@@ -1,6 +1,9 @@
-# Conversor de Moneda
+# Bienvenido!
 
-¡Bienvenido al Conversor de Moneda! Este es un programa en Java que 
+¡Bienvenido al Conversor de Moneda! 
+
+# Conversor de Moneda
+Este es un programa en Java que 
 permite convertir entre diferentes tipos de monedas, incluyendo Dólar, 
 Peso argentino, Real brasileño y Peso colombiano. El programa utiliza una interfaz 
 de línea de comandos que permite al usuario seleccionar la moneda de origen y destino, 
@@ -24,4 +27,4 @@ Para ejecutar este programa, necesitarás tener instalado:
 
 ## API
 
-![API usada](images/API.png)
+![API usada](images/api.png)
